@@ -1,4 +1,4 @@
-** 🧠 RAG Chatbot using LangChain, Hugging Face, and Pinecone **
+<h1>🧠 RAG Chatbot using LangChain, Hugging Face, and Pinecone. </h1>
 
 This project is a Retrieval-Augmented Generation (RAG) chatbot built with Flask, LangChain, Hugging Face, and Pinecone.
 It allows a user to ask natural-language questions and receive intelligent responses generated from stored knowledge.
